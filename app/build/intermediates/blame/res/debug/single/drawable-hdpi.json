@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\page\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\actionbar_share.png",
+        "source": "E:\\AndroidStudioProjects\\page\\CloudReader\\app\\src\\main\\res\\drawable-hdpi\\actionbar_share.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\page\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_back.png",
+        "source": "E:\\AndroidStudioProjects\\page\\CloudReader\\app\\src\\main\\res\\drawable-hdpi\\icon_back.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\page\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cloudreader.png",
+        "source": "E:\\AndroidStudioProjects\\page\\CloudReader\\app\\src\\main\\res\\drawable-hdpi\\ic_cloudreader.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\page\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loading_everyday.png",
+        "source": "E:\\AndroidStudioProjects\\page\\CloudReader\\app\\src\\main\\res\\drawable-hdpi\\loading_everyday.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\page\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\actionbar_more.png",
+        "source": "E:\\AndroidStudioProjects\\page\\CloudReader\\app\\src\\main\\res\\drawable-hdpi\\actionbar_more.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\page\\CloudReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\actionbar_search.png",
+        "source": "E:\\AndroidStudioProjects\\page\\CloudReader\\app\\src\\main\\res\\drawable-hdpi\\actionbar_search.png"
+    }
+]
